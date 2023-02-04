@@ -21,13 +21,14 @@ form {
 }
 form input,
 form button {
-  padding: .5rem;
+  padding: 0.5rem;
   padding-left: 1rem;
   font-size: 1.8rem;
   border: none;
   background: white;
   border-radius: 2rem;
 }
-form button{
+form button {
   color: rgb(255, 200, 0);
+  background: white;
 }
