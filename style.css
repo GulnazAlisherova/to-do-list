@@ -32,17 +32,18 @@ form button {
   color: rgb(255, 200, 0);
   background: white;
   cursor: pointer;
-  margin-left: .5rem;
+  margin-left: 0.5rem;
   transition: all 0.3 ease;
 }
-form button:hover{
+form button:hover {
   color: white;
   background: rgb(255, 200, 0);
 }
-.fa-plus-circle{
+.fa-plus-circle {
   margin-top: 0.3rem;
   margin-left: -8px;
 }
-.todo-container{
+.todo-container {
   display: flex;
+  justify-content: center;
 }
