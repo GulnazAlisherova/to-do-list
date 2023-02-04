@@ -52,9 +52,9 @@ form button:hover {
   min-width: 30%;
   list-style: none;
 }
-.todo{
-  margin: .5rem;
-  padding-left: .5rem;
+.todo {
+  margin: 0.5rem;
+  padding-left: 0.5rem;
   background: white;
   color: black;
   font-size: 1.5rem;
@@ -63,4 +63,7 @@ form button:hover {
   align-items: center;
   transition: 0.5s;
   border-radius: 2rem;
+}
+.todo li {
+  flex: 1;
 }
