@@ -32,4 +32,5 @@ form button {
   color: rgb(255, 200, 0);
   background: white;
   cursor: pointer;
+  transition: all 0.3 ease;
 }
