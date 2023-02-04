@@ -98,3 +98,8 @@ form button:hover {
   transform: translateX(10rem);
   opacity: 0;
 }
+select {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+}
