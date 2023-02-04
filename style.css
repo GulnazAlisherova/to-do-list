@@ -80,4 +80,5 @@ form button:hover {
 }
 .trash-btn{
   border-top-right-radius: 1.75rem;
+  border-bottom-right-radius: 1.75rem;
 }
