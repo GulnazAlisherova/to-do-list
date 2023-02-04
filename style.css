@@ -1,20 +1,24 @@
-*{
+* {
   padding: 0;
   margin: 0;
   box-sizing: border-box;
 }
-body{
-  background-color:rgb(102, 143, 178);
+body {
+  background-color: rgb(102, 143, 178);
   color: white;
   font-family: "Poppins" sans-serif;
   min-height: 100vh;
 }
-header{
+header {
   font-size: 1.5rem;
 }
-header, form{
+header,
+form {
   min-height: 20vh;
   display: flex;
   justify-content: center;
   align-items: center;
+}
+form input,
+form button {
 }
