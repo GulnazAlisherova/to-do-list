@@ -72,4 +72,5 @@ form button:hover {
   color: white;
   border: none;
   padding: 1rem;
+  cursor: pointer;
 }
