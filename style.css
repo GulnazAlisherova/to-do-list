@@ -70,4 +70,5 @@ form button:hover {
 .trash-btn,
 .complete-btn{
   color: white;
+  border: none;
 }
