@@ -22,4 +22,7 @@ form {
 form input,
 form button {
   padding: .5rem;
+  padding-left: 1rem;
+  font-size: 1.8rem;
+  
 }
