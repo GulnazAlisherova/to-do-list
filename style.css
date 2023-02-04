@@ -31,4 +31,5 @@ form button {
 form button {
   color: rgb(255, 200, 0);
   background: white;
+  cursor: pointer;
 }
