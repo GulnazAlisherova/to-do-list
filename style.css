@@ -21,4 +21,5 @@ form {
 }
 form input,
 form button {
+  padding: .5rem;
 }
