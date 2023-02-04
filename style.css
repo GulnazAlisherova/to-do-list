@@ -43,3 +43,6 @@ form button:hover{
   margin-top: 0.3rem;
   margin-left: -8px;
 }
+.todo-container{
+  display: flex;
+}
