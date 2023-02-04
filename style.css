@@ -59,4 +59,5 @@ form button:hover {
   color: black;
   font-size: 1.5rem;
   display: flex;
+  justify-content: space-between;
 }
