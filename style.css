@@ -39,3 +39,6 @@ form button:hover{
   color: white;
   background: rgb(255, 200, 0);
 }
+.fa-plus-circle{
+  margin-top: 0.3rem;
+}
