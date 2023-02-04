@@ -108,4 +108,5 @@ select {
 .select{
   margin: 1rem;
   position: relative;
+  overflow: hidden;
 }
