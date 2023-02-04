@@ -46,4 +46,5 @@ form button:hover {
 .todo-container {
   display: flex;
   justify-content: center;
+  align-items: center;
 }
