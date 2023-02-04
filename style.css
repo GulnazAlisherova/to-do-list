@@ -118,3 +118,6 @@ select {
   cursor: pointer;
   padding: 1rem;
 }
+.select::after{
+  content: "";
+}
