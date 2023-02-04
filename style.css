@@ -48,7 +48,10 @@ form button:hover {
   justify-content: center;
   align-items: center;
 }
-.todo-list{
+.todo-list {
   min-width: 30%;
-  list-style: none  ;
+  list-style: none;
+}
+.todo{
+  margin: .5rem;
 }
