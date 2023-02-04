@@ -90,3 +90,6 @@ form button:hover {
 .fa-check-circle{
   pointer-events: none;
 }
+.completed{
+  text-decoration: line-through;
+}
