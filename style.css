@@ -55,4 +55,5 @@ form button:hover {
 .todo{
   margin: .5rem;
   padding-left: .5rem;
+  background: white;
 }
