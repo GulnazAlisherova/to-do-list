@@ -115,4 +115,5 @@ select{
   color: rgb(255, 200, 0);
   width: 10rem;
   height: 3.2rem;
+  cursor: pointer;
 }
