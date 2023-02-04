@@ -96,4 +96,5 @@ form button:hover {
 }
 .slide{
   transform: translateX(10rem);
+  opacity: 0;
 }
