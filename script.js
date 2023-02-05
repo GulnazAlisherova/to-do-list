@@ -4,3 +4,4 @@ const todoList = document.querySelector(".todo-list");
 const filterOption = document.querySelector(".filter-todo");
 
 document.addEventListener("DOMContentLoaded", getLocalToDos);
+todoButton.addEventListener("click", addTodo);
