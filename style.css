@@ -118,7 +118,7 @@ select {
   cursor: pointer;
   padding: 1rem;
 }
-.select::after{
+.select::after {
   content: "\25BC";
   position: absolute;
   background: rgb(255, 200, 0);
