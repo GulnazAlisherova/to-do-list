@@ -122,4 +122,7 @@ select {
   content: "\25BC";
   position: absolute;
   background: rgb(255, 200, 0);
+  top: 0;
+  right: 0;
+  padding: 1rem;
 }
