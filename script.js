@@ -119,10 +119,10 @@ function getLocalTodos() {
 
 function removeLocalTodos(todo) {
   let todos;
-  if(localStorage.getItem("todos") === null) {
-      todos = [];
+  if (localStorage.getItem("todos") === null) {
+    todos = [];
   } else {
-      todos = JSON.parse(localStorage.getItem("todos"));
+    todos = JSON.parse(localStorage.getItem("todos"));
   }
 
   const todoIndex = todo.children[0].innerText;
