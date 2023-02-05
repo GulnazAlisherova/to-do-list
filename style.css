@@ -119,5 +119,6 @@ select {
   padding: 1rem;
 }
 .select::after{
-  content: "";
+  content: "\25BC";
+  position: absolute;
 }
